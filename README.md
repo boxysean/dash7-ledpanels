@@ -20,14 +20,14 @@ There are two lighting modes in this repo.
          9
 
 How to adjust the parameters
-============================
+----------------------------
 
 The light sequences are pre-computed using python. They generate arrays that are meant to be copied and pasted into the Arduino code. It's easier. :)
 
 So, for example, open up `gen-random.py` and adjust the parameters. Run the code and take the standard output and paste it into the appropriate place in the corresponding random Arduino sketch.
 
 By Dash 7
-=========
+---------
 
                            .------,
                            =\      \
